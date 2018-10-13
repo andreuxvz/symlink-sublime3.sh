@@ -5,9 +5,9 @@ I've been reading many posts  trying to create a symlink with any success, cause
 /usr/bin
 
 
-and the following folders are free:
-/Applications
-/Library
+and the following folders are free:<br>
+/Applications<br>
+/Library<br>
 /usr/local
 
 here is the command:  <br>
