@@ -11,7 +11,10 @@ and the following folders are free:
 /Applications
 /Library
 /usr/local
-so... what I've done its make my symlink for Sublime in /usr/local directory and it works.
+
+# ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+
+so... what I've done its make my symlink for Sublime in /usr/local/bin directory and it works.
 Hoping it helps u GUYS. :)
 
 You can read more about System Integrity Protection on your Mac and Configuring System Integrity Protection.
