@@ -1,6 +1,6 @@
 # Creating a symlink for Sublime3 on macOs High Sierra v.10.13.*
 As you know sometimes as a developer I'd  like too much to open Sublime v3 from terminal also use other commands... 
-I've been reading many posts  trying to create a symlink with any succes, cause many of them told me to create a symlink in forbidden directories
+I've been reading many posts  trying to create a symlink with any success, cause many of them told me to create a symlink in forbidden directories
 like:
 /bin
 /usr/bin
