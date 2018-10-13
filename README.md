@@ -11,7 +11,7 @@ and the following folders are free:
 /Library
 /usr/local
 
-here is the command:  \n
+here is the command:  "\n"
 <b> ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl <b>  
 
 so... what I've done its make my symlink for Sublime in /usr/local/bin directory and it works.
