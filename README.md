@@ -1,5 +1,4 @@
-# symlink-sublime3.sh
-Creating a symlink for visual Sublime3 on macOs High Sierra v.10.13.*
+# Creating a symlink for Sublime3 on macOs High Sierra v.10.13.*
 As you know sometimes as a developer I'd  like too much to open Sublime v3 from terminal also use other commands... 
 I've been reading many posts  trying to create a symlink with any succes, cause many of them told me to create a symlink in forbidden directories
 like:
@@ -12,8 +11,8 @@ and the following folders are free:
 /Library
 /usr/local
 
-command:
-ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl
+here is the command:
+<b> ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl <b>
 
 so... what I've done its make my symlink for Sublime in /usr/local/bin directory and it works.
 Hoping it helps u GUYS. :)
